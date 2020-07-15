@@ -29,5 +29,12 @@ informações armazenadas.
 - SQL
 - UML 
 
+# Diagrama de caso de uso
+
+![alt tag](https://github.com/taisnayara145/SisTesouraria/blob/master/Diagramas/Caso%20de%20uso/Caso%20de%20uso.jpg)
+
+# Modelagem de banco de dados
+
+![alt tag](https://github.com/taisnayara145/SisTesouraria/blob/master/Diagramas/ER/ER.jpg)
 
 
