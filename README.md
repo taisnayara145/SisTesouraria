@@ -15,16 +15,16 @@ balancetes).
 informações armazenadas.
 
 # Ferramentas
-NetBeans 8.2
-BrModelo 2.0
-Astah 7.0
-Ireport 5.6.0
-MySql Workbench 6.3
+- NetBeans 8.2
+- BrModelo 2.0
+- Astah 7.0
+- Ireport 5.6.0
+- MySql Workbench 6.3
 
-#Linguagens
-Java SE
-SQL
-UML 
+# Linguagens
+- Java SE
+- SQL
+- UML 
 
 
 
