@@ -2,6 +2,9 @@
 Sistema para gerenciamento de movimento financeiro, armazenamento de dados, receitas, despesas e relatórios
 de uma tesouraria, visando atender as necessidades de uma igreja de médio porte que não possui automatização nas suas atividades. 
 
+Trabalho de conclusão de curso elaborado pelos acadêmicos Antonio Correa de Oliveira, Joquebede Ferreira
+da Silva, Taís Nayara Rodrigues Vidéo
+
 # Objetivos gerais
 Automatizar o setor financeiro de uma congregação visando o controle de
 todas as atividades exercidas
